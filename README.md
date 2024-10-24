@@ -12,5 +12,5 @@ DEPLOY IN THIS PLATFORM
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/)
 
 * DEPLOY THIS VERCEL 
-[![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/)
+[![Deploy on Vercel.it](https://vercel.com/button)](https://vercel.com/)
 
