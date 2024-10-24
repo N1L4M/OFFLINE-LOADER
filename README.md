@@ -1,9 +1,9 @@
 ![logo](https://github.com/N1L4M/OFFLINE-LOADER/blob/main/INFO/Screenshot_20241024-193257_1.jpg)
 
-DEPLOY IN THIS PLATFORM 
+* 𝐃𝐄𝐏𝐋𝐎𝐘 𝐈𝐍 𝐓𝐇𝐈𝐒 𝐏𝐋𝐀𝐓𝐅𝐎𝐑𝐌
 
 * DEPLAY THIS RENDER
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy)
+[![𝐃𝐄𝐏𝐋𝐎𝐘 𝐓𝐎 𝐑𝐄𝐍𝐃𝐄𝐑](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy)
 
 * DEPLOY TO KOYEB 
 [![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/koyeb/example-flask&branch=main&name=flask-on-koyeb)
